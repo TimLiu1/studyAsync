@@ -1,0 +1,25 @@
+{
+  "name": "sasync",
+  "version": "1.0.0",
+  "description": "a study of async",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLiu1/studyAsync.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimLiu1/studyAsync/issues"
+  },
+  "homepage": "https://github.com/TimLiu1/studyAsync#readme",
+  "dependencies": {
+    "async": "^2.1.2"
+  }
+}
